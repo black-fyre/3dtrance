@@ -16,6 +16,10 @@
     color: #fff !important;
 }
 
+.color-header {
+    color: #0D47A1;
+}
+
 body {
     padding-top: 56px;
     font-family: Junction, Verdana, Georgia, sans-serif !important;
