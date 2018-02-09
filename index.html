@@ -11,12 +11,55 @@ Animations">
     <meta name="author" content="Fehntastic Innovations">
     <meta name="robots" content="follow">
 
-    <title>Coming Soon | 3DTrance</title>
+    <title>Home | 3DTrance</title>
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
-    <link href="assets/fonts/fontawesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
-<body>
+<body class="index-padding-top-override">
+<nav class="navbar navbar-expand-md navbar-dark fixed-top">
+    <a class="navbar-brand" href="#">3DTrance</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
+            aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item ">
+                <a class="nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="portfolioDropdown" role="button"
+                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="about.html">Who are we?</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="team.html">Our Team</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="about.html#philosophy">Philosophy and Experience</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="services.html">Our Services</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Our Projects
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+        </ul>
+    </div>
+</nav>
 <header>
     <div class="carousel slide" id="mainCarousel" data-ride="carousel">
         <ol class="carousel-indicators">

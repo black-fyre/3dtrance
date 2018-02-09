@@ -16,12 +16,17 @@
     color: #fff !important;
 }
 
+.color-accent-black {
+    border-color: #0D47A1 !important;
+    color: #0D47A1 !important;
+}
+
 .color-header {
     color: #0D47A1;
 }
 
 body {
-    padding-top: 56px;
+    padding-top: 76px;
     font-family: Junction, Verdana, Georgia, sans-serif !important;
 }
 
@@ -44,4 +49,8 @@ body {
 
 .half-transparent {
     opacity: 0.8;
+}
+
+.index-padding-top-override {
+    padding-top: 0 !important;
 }

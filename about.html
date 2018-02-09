@@ -11,7 +11,7 @@ Animations">
     <meta name="author" content="Fehntastic Innovations">
     <meta name="robots" content="follow">
 
-    <title>Coming Soon | 3DTrance</title>
+    <title>About Us | 3DTrance</title>
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
     <script defer src="assets/fonts/fontawesome/fontawesome-all.min.js"></script>
@@ -19,7 +19,8 @@ Animations">
 <body>
 <!--Nav Bar-->
 <nav class="navbar navbar-expand-md navbar-dark color-primary fixed-top">
-    <a class="navbar-brand" href="#">3DTrance</a>
+    <a class="navbar-brand" href="#"><img class="img-fluid mx-2" src="assets/images/logo50x50.png"
+                                          alt="The 3DTrance Logo"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
             aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -27,21 +28,21 @@ Animations">
     <div class="collapse navbar-collapse" id="navbarContent">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item ">
-                <a class="nav-link" href="#">Home</a>
+                <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item dropdown active">
                 <a class="nav-link dropdown-toggle" href="#" id="portfolioDropdown" role="button"
                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us <span class="sr-only">(current)</span></a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Our Mission & Vision</a>
+                    <a class="dropdown-item active" href="about.html">Who are we?</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Our Team</a>
+                    <a class="dropdown-item" href="team.html">Our Team</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Philosophy and Experience</a>
+                    <a class="dropdown-item" href="about.html#philosophy">Philosophy and Experience</a>
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Our Services</a>
+                <a class="nav-link" href="services.html">Our Services</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -64,7 +65,7 @@ Animations">
 </nav>
 <!--The main body of the page-->
 <div class="container">
-    <h2 class="mt-2 color-header">About Us</h2>
+    <h2 class="mt-2 color-header" id="lead">Who are we?</h2>
     <p class="lead">3DTrance Limited is an Architectural firm that started
         out as a Visualization and Animation Studio, that is
         focused on providing cutting edge design with modern
@@ -95,55 +96,27 @@ Animations">
         <p>To be a World class Architectural Visualization studio & Architectural firm, which would influence our global
             environment positively, through circularity and our world class R&D.</p>
     </div>
-    <h4 class="color-header">Our Philosophy</h4>
-    <p>At 3DTrance, we believe in
-        the ambience that
-        creativity brings, which
-        illuminate the atmosphere,
-        for constant flow of
-        ground breaking ideas to
-        flourish.</p>
-    <h4 class="color-header">Our Experience</h4>
-    <p>At 3DTrance, we have worked on all
-        types of projects from projects like
-        furniture design, to Lagos City
-        Animations and real estate projects,
-        both home and abroad.<br>
-        From Design to Visualization
-        (photorealistic images, animation, 360
-        panorama, VR, AR & HR) and
-        Implementation, we have you covered
-        and our clients are always satisfied.</p>
-    <h3>Our Team</h3>
-    <ul class="list-unstyled">
-        <li class="media">
-            <img class="mr-3 img-fluid img-thumbnail" src="assets/images/O" alt="Generic placeholder image">
-            <div class="media-body">
-                <h5 class="mt-0 mb-1">List-based media object</h5>
-                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus
-                odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-                fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-        </li>
-        <li class="media my-4">
-            <img class="mr-3" src="..." alt="Generic placeholder image">
-            <div class="media-body">
-                <h5 class="mt-0 mb-1">List-based media object</h5>
-                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus
-                odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-                fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-        </li>
-        <li class="media">
-            <img class="mr-3" src="..." alt="Generic placeholder image">
-            <div class="media-body">
-                <h5 class="mt-0 mb-1">List-based media object</h5>
-                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus
-                odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-                fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-        </li>
-    </ul>
+    <div id="philosophy">
+        <h4 class="color-header">Our Philosophy</h4>
+        <p>At 3DTrance, we believe in
+            the ambience that
+            creativity brings, which
+            illuminate the atmosphere,
+            for constant flow of
+            ground breaking ideas to
+            flourish.</p>
+        <h4 class="color-header">Our Experience</h4>
+        <p>At 3DTrance, we have worked on all
+            types of projects from projects like
+            furniture design, to Lagos City
+            Animations and real estate projects,
+            both home and abroad.<br>
+            From Design to Visualization
+            (photorealistic images, animation, 360
+            panorama, VR, AR & HR) and
+            Implementation, we have you covered
+            and our clients are always satisfied.</p>
+    </div>
 </div>
 <!--The footer-->
 <footer class="py-3 color-primary text-white text-white">
@@ -170,12 +143,16 @@ Animations">
                 <h4 class="d-none d-md-block">Social</h4>
                 <a href="https://www.facebook.com/3dtrance/" class="text-white half-transparent"><i
                         class="fab fa-facebook fa-3x fa-fw"></i></a>
-                <a href="#" class="text-white half-transparent"><i class="fab fa-youtube fa-3x fa-fw"></i></a>
-                <a href="#" class="text-white half-transparent"><i class="fab fa-linkedin fa-3x fa-fw"></i></a><br>
+                <a href="https://www.youtube.com/channel/UCAWahFlRjTkgWzl43EvR7jQ"
+                   class="text-white half-transparent"><i class="fab fa-youtube fa-3x fa-fw"></i></a>
+                <a href="https://www.linkedin.com/company/3dtrance/" class="text-white half-transparent"><i
+                        class="fab fa-linkedin fa-3x fa-fw"></i></a><br>
                 <a href="https://www.instagram.com/3dtrance/" class="text-white half-transparent"><i
                         class="fab fa-instagram fa-3x fa-fw"></i></a>
-                <a href="#" class="text-white half-transparent"><i class="fab fa-twitter fa-3x fa-fw"></i></a>
-                <a href="#" class="text-white half-transparent"><i class="fab fa-vimeo fa-3x fa-fw"></i></a>
+                <a href="https://twitter.com/3d_trance" class="text-white half-transparent"><i
+                        class="fab fa-twitter fa-3x fa-fw"></i></a>
+                <a href="https://behance.net/3dtrance" class="text-white half-transparent"><i
+                        class="fab fa-behance fa-3x fa-fw"></i></a>
             </div>
             <div class="col-md-3">
                 <a href="contact.html#quote" class="btn btn-outline-primary btn-block btn-lg color-accent">Get a
