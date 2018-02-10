@@ -3,98 +3,72 @@
 
 <head>
 
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description"
+          content="3dtrance is a top architectural firm in Nigeria. We are a Visualization and Animation Studio, that is
+focused on providing cutting edge design with modern day trends in Technology and Innovative research in Construction Materials.
+We offer Architectural services like Design and Build, Real Estate Service in Layout Design, Visualization, Presentation, Walkthrough, Breakers &
+Animations">
+    <meta name="author" content="Fehntastic Innovations">
+    <meta name="robots" content="follow">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>Contact Us | 3DTrance</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 
-    <!-- Temporary navbar container fix -->
-    <style>
-        .navbar-toggler {
-            z-index: 1;
-        }
-
-        @media (max-width: 576px) {
-            nav > .container {
-                width: 100%;
-            }
-        }
-    </style>
-
+    <script src="assets/fonts/fontawesome/fontawesome-all.min.js"></script>
 </head>
 
 <body>
 
-<!-- Navigation -->
-<nav class="navbar fixed-top navbar-toggleable-md navbar-inverse bg-inverse">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-            data-target="#navbarExample" aria-controls="navbarExample" aria-expanded="false"
-            aria-label="Toggle navigation">
+<!--Nav Bar-->
+<nav class="navbar navbar-expand-md navbar-dark color-primary fixed-top">
+    <a class="navbar-brand" href="index.html"><img class="img-fluid mx-2" src="assets/images/logo50x50.png"
+                                                   alt="The 3DTrance Logo"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
+            aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="container">
-        <a class="navbar-brand" href="index.html">Start Bootstrap</a>
-        <div class="collapse navbar-collapse" id="navbarExample">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="services.html">Services</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown"
-                       aria-haspopup="true" aria-expanded="false">
-                        Portfolio
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="portfolio-1-col.html">1 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-2-col.html">2 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown"
-                       aria-haspopup="true" aria-expanded="false">
-                        Blog
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                        <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                        <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown"
-                       aria-haspopup="true" aria-expanded="false">
-                        Other Pages
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                        <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                        <a class="dropdown-item" href="faq.html">FAQ</a>
-                        <a class="dropdown-item" href="404.html">404</a>
-                        <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
+    <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item ">
+                <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="portfolioDropdown" role="button"
+                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us <span class="sr-only">(current)</span></a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="about.html">Who are we?</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="team.html">Our Team</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="about.html#philosophy">Philosophy and Experience</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="services.html">Our Services</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Our Projects
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="contact.html">Contact Us</a>
+            </li>
+        </ul>
     </div>
 </nav>
 
@@ -102,16 +76,10 @@
 <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Contact
-        <small>Subheading</small>
+    <h1 class="mt-2 mb-3">Contact Us
+        <small></small>
     </h1>
 
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a href="index.html">Home</a>
-        </li>
-        <li class="breadcrumb-item active">Contact</li>
-    </ol>
 
     <!-- Content Row -->
     <div class="row">
@@ -125,19 +93,20 @@
         <div class="col-lg-4 mb-4">
             <h3>Contact Details</h3>
             <p>
-                3481 Melrose Place
-                <br>Beverly Hills, CA 90210
-                <br>
+                <i class="fas fa-home fa-lg"></i>
+                2nd Floor, The Garnet,<br>
+                Igbo Efon Roundabout,<br>
+                Lekki, Lagos,<br>
+                Nigeria
             </p>
             <p>
-                <abbr title="Phone">P</abbr>: (123) 456-7890
+                <i class="fas fa-phone fa-lg"></i> + 234 818 206 0563 <br/> + 234 705 377 4215
             </p>
             <p>
-                <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">name@example.com
-            </a>
+                <i class="far fa-envelope fa-lg"></i> info@3dtrance.com
             </p>
             <p>
-                <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM
+                <i class="far fa-clock fa-lg"></i> Monday - Friday: 9:00 AM to 5:00 PM
             </p>
         </div>
     </div>
@@ -146,9 +115,9 @@
     <!-- Contact Form -->
     <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
     <div class="row">
-        <div class="col-lg-8 mb-4">
-            <h3>Send us a Message</h3>
-            <form name="sentMessage" id="contactForm" novalidate>
+        <div class="col-lg-8 mb-4" id="quote">
+            <h3>Send us a Message / Get a quote</h3>
+            <form name="sentMessage" id="contactForm" enctype="multipart/form-data" novalidate>
                 <div class="control-group form-group">
                     <div class="controls">
                         <label>Full Name:</label>
@@ -179,6 +148,12 @@
                                   style="resize:none"></textarea>
                     </div>
                 </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Upload your file:</label>
+                        <input type="file" class='form-control' id='uploadedfile' required>
+                    </div>
+                </div>
                 <div id="success"></div>
                 <!-- For success/fail messages -->
                 <button type="submit" class="btn btn-primary">Send Message</button>
@@ -191,18 +166,55 @@
 </div>
 <!-- /.container -->
 
-<!-- Footer -->
-<footer class="py-5 bg-inverse">
+<footer class="py-3 color-primary text-white text-white">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+        <div class="row">
+            <div class="col-md-3">
+                <h4>Contact Us</h4>
+                <p><i class="fas fa-home"></i> 2nd Fl. The Garnet, Igbo Efon
+                    Roundabout, Lekki, Lagos, Nigeria</p>
+                <p><i class="fas fa-phone"></i> + 234 818 206 0563<br>
+                    + 234 705 377 4215</p>
+            </div>
+            <div class="col-md-3">
+                <h4>Go to</h4>
+                <nav class="nav flex-column">
+                    <a class="nav-link text-white half-transparent" href="index.html">Home</a>
+                    <a class="nav-link text-white half-transparent" href="about.html">About Us</a>
+                    <a class="nav-link text-white half-transparent" href="projects.html">Our Projects</a>
+                    <a class="nav-link text-white half-transparent" href="contact.html">Contact Us</a>
+                    <a class="nav-link text-white half-transparent" href="career.html">Career</a>
+                </nav>
+            </div>
+            <div class="col-md-3">
+                <h4 class="d-none d-md-block">Social</h4>
+                <a href="https://www.facebook.com/3dtrance/" class="text-white half-transparent"><i
+                        class="fab fa-facebook fa-3x fa-fw"></i></a>
+                <a href="https://www.youtube.com/channel/UCAWahFlRjTkgWzl43EvR7jQ"
+                   class="text-white half-transparent"><i class="fab fa-youtube fa-3x fa-fw"></i></a>
+                <a href="https://www.linkedin.com/company/3dtrance/" class="text-white half-transparent"><i
+                        class="fab fa-linkedin fa-3x fa-fw"></i></a><br>
+                <a href="https://www.instagram.com/3dtrance/" class="text-white half-transparent"><i
+                        class="fab fa-instagram fa-3x fa-fw"></i></a>
+                <a href="https://twitter.com/3d_trance" class="text-white half-transparent"><i
+                        class="fab fa-twitter fa-3x fa-fw"></i></a>
+                <a href="https://behance.net/3dtrance" class="text-white half-transparent"><i
+                        class="fab fa-behance fa-3x fa-fw"></i></a>
+            </div>
+            <div class="col-md-3">
+                <a href="contact.html#quote" class="btn btn-outline-primary btn-block btn-lg color-accent">Get a
+                    quote</a>
+            </div>
+        </div>
+
     </div>
-    <!-- /.container -->
 </footer>
 
+
 <!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/tether/tether.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="lib/jquery/jquery.min.js"></script>
+<script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Contact form JavaScript -->
 <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
