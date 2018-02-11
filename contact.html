@@ -116,13 +116,14 @@ Animations">
     <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
     <div class="row">
         <div class="col-lg-8 mb-4" id="quote">
-            <h3>Send us a Message / Get a quote</h3>
+            <h3>Send us a Message / Get a qte</h3>
             <form name="sentMessage" id="contactForm" enctype="multipart/form-data" novalidate>
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="name">Full Name:</label>
                         <input type="text" class="form-control" id="name" required
-                               data-validation-required-message="Please enter your name.">
+                               data-validation-required-message="Please enter your name."
+                               autocomplete="name">
                         <p class="help-block"></p>
                     </div>
                 </div>
@@ -130,14 +131,16 @@ Animations">
                     <div class="controls">
                         <label for="phone">Phone Number:</label>
                         <input type="tel" class="form-control" id="phone" required
-                               data-validation-required-message="Please enter your phone number.">
+                               data-validation-required-message="Please enter your phone number."
+                               autocomplete="tel-national">
                     </div>
                 </div>
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="email">Email Address:</label>
                         <input type="email" class="form-control" id="email" required
-                               data-validation-required-message="Please enter your email address.">
+                               data-validation-required-message="Please enter your email address."
+                               autocomplete="email">
                     </div>
                 </div>
                 <div class="control-group form-group">
@@ -151,12 +154,17 @@ Animations">
                 <div class="control-group form-group">
                     <div class="custom-file">
                         <label for="attachment" class="custom-file-label">Upload a file:</label>
-                        <input type="file" class='custom-file-input' id='attachment' aria-describedby="fileHelp">
+                        <input type="file" class='custom-file-input' id='attachment' aria-describedby="fileHelp"
+                               accept="application/msword, .docx, .pdf, .doc, .xml">
                         <small id="fileHelp" class="form-text text-muted">
-                            Upload an optional file describing your project or requirements in detail
+                            Upload an optional file describing your project or requirements in detail.<br> Documents
+                            must be in either word or pdf format.(.doc, .docx, .pdf)<br>
+                            4MB max.
                         </small>
                     </div>
+                    <div id="attachmentLabel" class="m-0"></div>
                 </div>
+
                 <div id="success"></div>
                 <!-- For success/fail messages -->
                 <button type="submit" class="btn btn-primary">Send Message</button>
@@ -223,7 +231,7 @@ Animations">
 <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/contact_me.js"></script>
-
+<script src="js/attachment.js"></script>
 </body>
 
 </html>
