@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="12d00077-f86c-42e5-9de1-bb522f5d2a6d" name="3DTrance Testing Domian" url="http://ssh.3dtrance.com">
+        <fileTransfer host="ssh.3dtrance.com" port="22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

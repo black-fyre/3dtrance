@@ -23,6 +23,7 @@ $to = 'dahunsi.fehinti@gmail.com'; // Add your email address inbetween the '' re
 $email_subject = "Website Contact Form:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 
+$data['file']  = $_FILES['attachment'];
 date_default_timezone_set('Africa/Lagos');
 
 // Create the email and send the message
@@ -55,14 +56,17 @@ $mail->addAddress($to, "Webmaster");
 $mail->Subject = $email_subject;
 $mail->Body = $email_body;
 if (array_key_exists('attachment', $_FILES)) {
+
     $uploadfile = tempnam(sys_get_temp_dir(), hash('sha256', $_FILES['attachment']['name']));
     if (move_uploaded_file($_FILES['attachment']['tmp_name'], $uploadfile)) {
 
-        $mail->addAttachment($uploadfile, 'My uploaded file');
+        $mail->addAttachment($uploadfile, $_FILES['attachment']['name']);
 
     } else {
         $data['failure']['message'] = "failed to move file to " . $uploadfile;
     }
+} else{
+    $data['uploaderror'] = "File still not getting here";
 }
 
 //send the message, check for errors

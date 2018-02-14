@@ -18,11 +18,12 @@ $(function () {
         submitSuccess: function ($form, event) {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
+            var form = new FormData(document.getElementById('contactForm'));
             var name = $("input#name").val();
-            var phone = $("input#phone").val();
-            var email = $("input#email").val();
-            var attachment = $("input#attachment").val();
-            var message = $("textarea#message").val();
+            // var phone = $("input#phone").val();
+            // var email = $("input#email").val();
+            // var attachmentData = $('#attachment').prop("files")[0];
+            // var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
@@ -30,15 +31,12 @@ $(function () {
             }
             $.ajax({
                 url: "mail/contact_me.php",
-                type: "POST",
-                data: {
-                    name: name,
-                    phone: phone,
-                    email: email,
-                    message: message,
-                    attachment: attachment
-                },
+                method: "POST",
+                data: form,
+                // enctype: 'multipart/form-data',
                 cache: false,
+                contentType: false,
+                processData: false,
                 success: function (data) {
                     // Success message
                     $('#success').html("<div class='alert alert-success'>");
@@ -51,6 +49,7 @@ $(function () {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    $('#attachmentLabel').html('');
 
                     console.log(data);
                 },
@@ -63,6 +62,7 @@ $(function () {
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    $('#attachmentLabel').html('');
                 }
             })
         },

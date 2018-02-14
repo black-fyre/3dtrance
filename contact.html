@@ -19,7 +19,7 @@ Animations">
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/styles.css" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <script src="assets/fonts/fontawesome/fontawesome-all.min.js"></script>
 </head>
 
@@ -116,12 +116,12 @@ Animations">
     <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
     <div class="row">
         <div class="col-lg-8 mb-4" id="quote">
-            <h3>Send us a Message / Get a qte</h3>
+            <h3>Send us a Message / Get a quote</h3>
             <form name="sentMessage" id="contactForm" enctype="multipart/form-data" novalidate>
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="name">Full Name:</label>
-                        <input type="text" class="form-control" id="name" required
+                        <input type="text" class="form-control" id="name" name="name" required
                                data-validation-required-message="Please enter your name."
                                autocomplete="name">
                         <p class="help-block"></p>
@@ -130,7 +130,8 @@ Animations">
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="phone">Phone Number:</label>
-                        <input type="tel" class="form-control" id="phone" required
+                        <input type="tel" class="form-control"
+                               id="phone" name="phone" required
                                data-validation-required-message="Please enter your phone number."
                                autocomplete="tel-national">
                     </div>
@@ -138,7 +139,8 @@ Animations">
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="email">Email Address:</label>
-                        <input type="email" class="form-control" id="email" required
+                        <input type="email" class="form-control"
+                               id="email" name="email" required
                                data-validation-required-message="Please enter your email address."
                                autocomplete="email">
                     </div>
@@ -146,7 +148,8 @@ Animations">
                 <div class="control-group form-group">
                     <div class="controls">
                         <label for="message">Message:</label>
-                        <textarea rows="10" cols="100" class="form-control" id="message" required
+                        <textarea rows="10" cols="100" class="form-control"
+                                  id="message" name="message" required
                                   data-validation-required-message="Please enter your message" maxlength="999"
                                   style="resize:none"></textarea>
                     </div>
@@ -154,7 +157,8 @@ Animations">
                 <div class="control-group form-group">
                     <div class="custom-file">
                         <label for="attachment" class="custom-file-label">Upload a file:</label>
-                        <input type="file" class='custom-file-input' id='attachment' aria-describedby="fileHelp"
+                        <input type="file" class='custom-file-input'
+                               id='attachment' name='attachment' aria-describedby="fileHelp"
                                accept="application/msword, .docx, .pdf, .doc, .xml">
                         <small id="fileHelp" class="form-text text-muted">
                             Upload an optional file describing your project or requirements in detail.<br> Documents
@@ -177,7 +181,7 @@ Animations">
 </div>
 <!-- /.container -->
 
-<footer class="py-3 color-primary text-white text-white">
+<footer class="py-3 color-primary text-white small">
     <div class="container">
         <div class="row">
             <div class="col-md-3">
