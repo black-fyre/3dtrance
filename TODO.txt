@@ -1,0 +1,9 @@
+The latest revision is in doc. It's called website edit
+TO DO LIST
+About us.
+Add the information to the pictures. The last pic is in /images
+Index
+Replace the images, fill in the information. The pic with the legend is in images as well
+General
+Add the "nav-link-active" class to those pages that need it. Index and services have been done
+ God bless

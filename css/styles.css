@@ -1,6 +1,5 @@
 .color-primary {
-    background-color: #2196f3;
-    border-color: #4A148C;
+    background-color: #000;
 }
 
 .color-primary-transparent {
@@ -22,24 +21,31 @@
     color: #0D47A1;
 }
 
+/*The padding top is space for the nav bar, since it is fixed*/
 body {
-    padding-top: 76px;
-    font-family: 'Raleway', sans-serif !important;
+    padding-top: 50px;
+    font-family: 'Agency FB', sans-serif !important;
 }
 
+/*All headers and nav link use this font and color*/
+h1, h2, h3, h4, h5, .nav-link {
+    font-family: 'Swis721 BlkCn BT', sans-serif !important;
+    color: #ffc000 !important;
+}
+
+/*This class changes the style of the active nav link*/
+a.nav-link-active {
+    color: #000 !important;
+    background-color: #ffc000 !important;
+}
 .carousel-item {
-    height: 100vh !important;
+    height: calc(100vh - 49px) !important;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-
-.carousel-caption {
-    bottom: 0 !important;
-}
-
 .text-shadow {
     text-shadow: 3px 3px 3px #333;
 }
@@ -49,11 +55,136 @@ body {
 }
 
 .index-padding-top-override {
-    padding-top: 0 !important;
+    padding-top: 49px !important;
 }
 .img-title {
     position: absolute;
     bottom: 0;
     background-color: rgba(41, 46, 55, 0.8);
     width: 100%;
+}
+
+.height-half-vp {
+    height: 65vh;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden
+}
+
+.lead {
+    font-weight: 500;
+}
+
+.img-overlay-middle {
+    background-color: rgba(41, 46, 55, 0.6);
+}
+
+/*This class overrides the default bootstrap navbar brand padding*/
+.navbar-brand {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+/*If you guessed this class overrides the default navbar padding, thumbs ups, otherwise.....*/
+.navbar {
+    padding: 0 !important;
+}
+
+.nav-link {
+    padding-top: .8rem !important;
+    padding-bottom: .8rem !important;
+}
+
+/*This is for the main text on the about us pictures*/
+.about-image-text-left, .about-image-text-right {
+    position: absolute;
+    bottom: 0;
+    margin: 1rem;
+    background-color: rgba(229, 226, 223, 0.8);
+    color: #000;
+    width: 250px;
+
+}
+
+.about-image-text-left {
+    left: 0;
+}
+
+.about-image-text-right {
+    right: 0;
+}
+
+.about-image-text-left h4, .about-image-text-right h4 {
+    color: #000 !important;
+}
+
+/*This is the explanatory text on the images*/
+.about-explain-text-top-left, .about-explain-text-top-right {
+    position: absolute;
+    top: 1.5rem;
+    margin: 1rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about-explain-text-top-left, .about-explain-text-bottom-left {
+    left: 0;
+}
+
+.about-explain-text-top-right, .about-explain-text-bottom-right {
+    right: 0;
+}
+
+.about-explain-text-bottom-left, .about-explain-text-bottom-right {
+    position: absolute;
+    bottom: 0;
+    margin: .5rem;
+    font-weight: 700;
+    text-align: center;
+    color: #e5e2df;
+}
+
+/*Use this to set the background color*/
+.bg-color-orange {
+    background-color: #ffc000;
+}
+
+.bg-color-grey {
+    background-color: #e5e2df;
+}
+
+.color-orange {
+    color: #ffc000 !important;
+}
+
+/*Index page postioning some of the styling is gotten from classes above e.g bg-color-orange. Overrides default caption*/
+.my-carousel-caption-left, .my-carousel-caption-right {
+    position: absolute;
+    bottom: 0;
+    margin: 1rem;
+    width: 300px;
+    font-weight: 700;
+}
+
+.my-carousel-caption-left {
+    left: 0;
+    text-align: left;
+}
+
+.my-carousel-caption-right {
+    right: 0;
+    text-align: right;
+}
+
+/*For changing the font of text*/
+.swis721 {
+    font-family: 'Swis721 BlkCn BT', sans-serif !important;
+}
+
+/*Semi transparent grey background*/
+.bgcolor-transparent-gray {
+    background-color: rgba(229, 226, 223, 0.8);
 }
