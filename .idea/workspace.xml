@@ -1,910 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/index.html" description="&lt;footer class=&quot;py-0 color-primary-transparent fixe..." line="126" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dae1c4f-5d1d-4a60-b9f8-399342272902" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cd7f524d-af46-4223-8cb9-87f45255ce4b.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TODO.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/about.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/CouchCMS-2.0/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/CouchCMS-2.0/INSTALL.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/CouchCMS-2.0/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/CouchCMS-2.0/UPGRADE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/_index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/cart/cart.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/cart/cart_ex.example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/cart/config.example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/cart/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/checkspam.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/data-bound-form.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/datetime.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/datetime.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/securefile.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/data-bound-form/throttle.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/extended/config.example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/extended/extended-comments.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/extended/extended-folders.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/extended/extended-users.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/includes/smoothbox/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/inline.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/inline_ex.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/theme/inline_content_form.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/theme/scripts.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/tinybox2/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/tinybox2/images/preload.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/tinybox2/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/inline/tinybox2/tinybox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/assets/Jcrop.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/assets/jcropthumb.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/assets/jquery.Jcrop.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/assets/jquery.Jcrop.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/assets/jquery.bpopup.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/jcropthumb/jcropthumb.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/kfunctions.example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/nicedit/nicedit.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/nicedit/nicedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/nicedit/nicedit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/phpmailer/PHPMailer/PHPMailerAutoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/phpmailer/PHPMailer/class.phpmailer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/phpmailer/PHPMailer/class.smtp.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/phpmailer/config.example.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/phpmailer/phpmailer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/recaptcha/recaptcha.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/edit-relation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/relation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/relation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/theme/content_list_relation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/theme/content_list_relation_exit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/theme/content_list_relation_inner.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/relation/theme/field_relation_advanced.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/repeatable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/add.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/delete.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/dg-arrange-table-rows.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/tablegear.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/tablegear.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/tablegear/th-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/repeatable/theme/repeatable_column_deleted.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/addons/routes/routes.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/auth/PasswordHash.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/auth/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/auth/user.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/cache/cache_invalidate.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/captcha.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/cms.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/comment.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/config.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/couchcms-logo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/db.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/download.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/edit-comments.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/edit-drafts.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/edit-folders.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/edit-pages.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/edit-users.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/event.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/field.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/folder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/forgotpassword.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/functions.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/gen_dump.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/gen_htaccess.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/JSON.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/adapters/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/ckeditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/ckeditor.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/contents.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/about/dialogs/about.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/clipboard/dialogs/paste.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/colordialog/dialogs/colordialog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/colordialog/dialogs/colordialog.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/dialog/dialogDefinition.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/div/dialogs/div.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/find/dialogs/find.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/flash/dialogs/flash.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/flash/images/placeholder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/checkbox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/hiddenfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/radio.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/select.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/textarea.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/dialogs/textfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/forms/images/hiddenfield.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/icons_hidpi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/iframe/dialogs/iframe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/iframe/images/placeholder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/image/dialogs/image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/image/images/noimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/inlinesave/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/inlinesave/save.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/link/dialogs/anchor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/link/dialogs/link.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/link/images/anchor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/link/images/hidpi/anchor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/liststyle/dialogs/liststyle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/magicline/images/hidpi/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/magicline/images/icon-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/magicline/images/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/pagebreak/images/pagebreak.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/pastefromword/filter/default.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/preview/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/scayt/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/scayt/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/scayt/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/scayt/dialogs/options.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/scayt/dialogs/toolbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_address.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_blockquote.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_div.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_h6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_p.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/showblocks/images/block_pre.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/dialogs/smiley.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/angel_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/angel_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/angry_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/angry_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/broken_heart.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/broken_heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/confused_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/confused_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/cry_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/cry_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/devil_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/devil_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/embaressed_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/embarrassed_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/embarrassed_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/envelope.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/envelope.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/heart.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/kiss.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/kiss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/lightbulb.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/lightbulb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/omg_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/omg_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/regular_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/regular_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/sad_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/sad_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/shades_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/shades_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/teeth_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/teeth_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/thumbs_down.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/thumbs_down.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/thumbs_up.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/thumbs_up.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/tongue_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/tongue_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/tounge_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/wink_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/smiley/images/wink_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/table/dialogs/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/dialogs/templates.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/dialogs/templates.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/templates/default.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/templates/images/template1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/templates/images/template2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/templates/templates/images/template3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/dialogs/ciframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/dialogs/wsc.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/dialogs/wsc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/dialog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/dialog_ie.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/dialog_ie7.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/dialog_ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/dialog_iequirks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor_gecko.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor_ie.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor_ie7.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor_ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/editor_iequirks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/icons_hidpi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/hidpi/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/hidpi/lock-open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/hidpi/lock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/hidpi/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/lock-open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/lock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/images/spinner.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/skins/moono/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/ckeditor/styles.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/basexml.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/browser.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/browser.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmactualfolder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmcreatefolder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmfolders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmresourceslist.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmresourcetype.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/frmupload.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/ButtonArrow.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/Folder.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/Folder32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/FolderOpened.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/FolderOpened32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/FolderUp.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/ai.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/avi.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/bmp.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/cs.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/default.icon.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/dll.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/doc.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/exe.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/fla.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/gif.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/htm.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/html.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/jpg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/js.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/mdb.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/mp3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/pdf.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/png.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/ppt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/rdp.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/swf.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/swt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/txt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/vsd.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/xls.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/xml.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/32/zip.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/ai.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/avi.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/bmp.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/cs.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/default.icon.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/dll.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/doc.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/exe.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/fla.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/gif.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/htm.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/html.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/jpg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/js.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/mdb.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/mp3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/pdf.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/png.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/ppt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/rdp.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/swf.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/swt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/txt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/vsd.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/xls.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/xml.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/icons/zip.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/images/spacer.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/browser/js/fckxml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/commands.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/config.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/connector.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/io.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/phpcompat.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/fileuploader/util.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/form.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/jquery-3.x.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/browse.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/config.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/autoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/browser.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/types/type_img.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/types/type_mime.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/core/uploader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/css.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/integration/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/integration/couch.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/_0bject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/clipboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/dropUpload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/files.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/folders.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/joiner.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/misc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/settings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/browser/toolbar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/helper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/jquery.drag.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/jquery.finger.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js/jquery.rightClick.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/js_localize.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/bg.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/ca.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/cs.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/da.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/de.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/el.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/en.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/es.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/fa.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/fr.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/hu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/it.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/ja.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/lt.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/nl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/no.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/pl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/pt-br.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/pt.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/ru.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/sk.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/tr.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/vi.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lang/zh-cn.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/class_fastImage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/class_gd.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/class_input.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/class_zipFolder.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/helper_dir.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/helper_file.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/helper_httpCache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/helper_path.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/lib/helper_text.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/about.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/alert.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/bg_transparent.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/confirm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/.image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/avi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/bat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/bmp.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/bz2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/ccd.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/cgi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/com.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/csh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/cue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/deb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/dll.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/doc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/docx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/exe.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/fla.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/flv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/fon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/gif.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/gz.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/htm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/html.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/ini.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/iso.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/jar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/java.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/jpeg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/jpg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/js.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mds.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mdx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mid.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/midi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mkv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mov.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mp3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mpeg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/mpg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/nfo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/nrg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/ogg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/pdf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/php.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/phps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/pl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/png.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/ppt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/pptx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/psd.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/qt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/rar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/rpm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/rtf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/sh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/srt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/sub.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/swf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/tgz.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/tif.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/tiff.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/torrent.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/ttf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/txt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/wav.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/wma.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/xls.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/xlsx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/big/zip.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/.image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/avi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/bat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/bmp.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/bz2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/ccd.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/cgi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/com.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/csh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/cue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/deb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/dll.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/doc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/docx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/exe.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/fla.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/flv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/fon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/gif.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/gz.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/htm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/html.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/ini.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/iso.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/jar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/java.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/jpeg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/jpg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/js.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mds.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mdx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mid.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/midi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mkv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mov.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mp3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mpeg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/mpg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/nfo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/nrg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/ogg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/pdf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/php.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/phps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/pl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/png.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/ppt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/pptx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/psd.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/qt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/rar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/rpm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/rtf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/sh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/srt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/sub.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/swf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/tgz.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/tif.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/tiff.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/torrent.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/ttf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/txt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/wav.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/wma.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/xls.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/xlsx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/files/small/zip.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/about.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/clipboard-add.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/clipboard-clear.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/clipboard.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/close-clicked.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/close-hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/copy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/delete.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/download.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/folder-new.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/maximize.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/move.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/rename.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/select.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/settings.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/upload.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/icons/view.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/kcf_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/tree/denied.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/tree/folder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/tree/folder_current.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/tree/minus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/img/tree/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/themes/oxygen-silk/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/tpl/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/tpl/tpl_browser.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/tpl/tpl_css.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/tpl/tpl_javascript.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/upload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/kcfinder/upload/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/mysql2i/mysql2i.class.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/mysql2i/mysql2i.func.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/phpExifRW/License" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/phpExifRW/exifReader.inc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/Moxie.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/Moxie.xap" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/az.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/bs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/hy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ka.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/kk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ku_iq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/pt_br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/sr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/th_th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/uk_ua.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/zh_cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/i18n/zh_tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/css/jquery.plupload.queue.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/backgrounds.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/buttons-disabled.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/buttons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/delete.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/done.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/error.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/throbber.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/img/transp50.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/jquery.plupload.queue/jquery.plupload.queue.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/plupload.full.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/plupload/upload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/elephant.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/gdfonts/automatic.gdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/images/audio_icon.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/images/refresh.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/securimage/securimage.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/includes/timthumb.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/install.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/lang/DE.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/lang/EN.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/lang/ES.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/lang/FR.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/lang/NL.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/parser/BBParser.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/parser/HTMLParser.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/parser/parser.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/route.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/search.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/snippets/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/tags.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/alert.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/assets/blank.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/assets/open-iconic.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/assets/upload-image.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/batch_actions.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/comment_item.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_form.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_comments.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_drafts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_folders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_gallery.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_nested.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/content_list_inner_users.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/default_route.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/draft_button.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/extended_actions.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_checkbox.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_dropdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_file.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_image.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_radio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_text.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_textarea.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/field_thumbnail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_comments_parent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_folders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_parent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_related.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_search.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_status.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filter_templates.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/filters.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/forgot_password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/form_field_deleted.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/form_input.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/form_row.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/form_row_group.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/form_row_message.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/gallery_folder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/gallery_item.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/gallery_upload.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/group_advanced_settings.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/group_custom_fields.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/group_menu_link_fields.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/group_pointer_fields.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/group_system_fields.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/avatar.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/camera.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/check.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/couch_dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/couch_light.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/images/stripe.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/admin/simple.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/magnific-popup/magnific-popup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/magnific-popup/magnific-popup.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/mcustomscrollbar/mCSB_buttons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/mcustomscrollbar/mcustomscrollbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/mcustomscrollbar/mcustomscrollbar.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/svg4everybody.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/includes/toastr.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/insufficient_privileges.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/list_header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/list_row.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/logo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/page_actions.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/paginator.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/register.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/simple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/site_offline.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/subtitle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/template_missing.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/title.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/_system/toolbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/images/couch_dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/images/couch_light.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/sample/icons.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/sample/kfunctions.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/theme/sample/styles.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/upgrade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/upload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/uploader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/uploads/file/secure/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/docs/WEBSITE EDIT FINAL EDIT.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/swis/swiss721blackcondensedbt.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/AXONOMETRIC 3D PLAN.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/aerialpool.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/cottage view 1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/itan16x9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/nairamall.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/ANIMATION.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/AXONOMETRIC.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/BACKGROUND.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/ELEVATION.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/EXTERIOR.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/FACADE.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/INTERIOR VISUAL.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/resizedservices/PANORAMA.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/ANIMATION ICON.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/AXONOMETRIC PLAN ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/BACKGROUND.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/ELEVATION VISUAL ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/EXTERIOR VISUAL ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/FACADE DESIGN ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/INTERIOR VISUAL ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/services/PANORAMA ICON.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/ITAN ANIMATION_x264.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/ITAN16X9_x264.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/visibleanimations.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/in-view/in-view.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/obsolete/services2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/obsolete/tea2m.html" />
+    <list default="true" id="3dae1c4f-5d1d-4a60-b9f8-399342272902" name="Default" comment="Projects page ui designed">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/docs/WEBSITE PROJECT PAGE.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/adugboOke.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/itan2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/itan3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/itan4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/itan5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/animate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.jscrollpane.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mousewheel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/mwheelIntent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/projectbordertoggler.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/payment/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projects/colloborations.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projects/css/jquery.jscrollpane.lozenge.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projects/css/styles.css" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TODO.txt" afterPath="$PROJECT_DIR$/TODO.txt" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/debug.log" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/paragraph_picture_scroll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services-test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/lib/vendor/composer/" />
@@ -953,75 +74,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="visibleanimations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/visibleanimations.js">
+      <file leaf-file-name="colloborations.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/colloborations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="75" column="99" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="75" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+            <state relative-caret-position="458">
+              <caret line="260" column="7" lean-forward="false" selection-start-line="260" selection-start-column="7" selection-end-line="260" selection-end-column="7" />
               <folding>
-                <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+            <state relative-caret-position="1081">
+              <caret line="99" column="10" lean-forward="false" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.html">
+      <file leaf-file-name="projectbordertoggler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/projectbordertoggler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="50" />
+            <state relative-caret-position="333">
+              <caret line="25" column="9" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2176">
+              <caret line="128" column="2" lean-forward="false" selection-start-line="128" selection-start-column="2" selection-end-line="128" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="149" column="40" lean-forward="true" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
+            <state relative-caret-position="441">
+              <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1032,6 +136,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -1040,12 +146,19 @@
     <findStrings>
       <find>about.html</find>
       <find>body</find>
-      <find>ca</find>
       <find>sw</find>
+      <find>color-p</find>
+      <find>ca</find>
+      <find>collaboration3</find>
+      <find>bg-c</find>
     </findStrings>
     <replaceStrings>
       <replace>about.php</replace>
+      <replace>collaborationCarousel3</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Dahunsi\Desktop\HTML\Xampp\htdocs\3dtrance\projects</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1063,7 +176,13 @@
         <option value="$PROJECT_DIR$/team.html" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/payment/index.html" />
+        <option value="$PROJECT_DIR$/js/animate.js" />
+        <option value="$PROJECT_DIR$/projects/css/styles.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/projects/colloborations.html" />
+        <option value="$PROJECT_DIR$/js/projectbordertoggler.js" />
+        <option value="$PROJECT_DIR$/projects.html" />
       </list>
     </option>
   </component>
@@ -1079,13 +198,13 @@
       <path value="$PROJECT_DIR$/lib/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="690" />
     <option name="width" value="683" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1098,7 +217,41 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3dtrance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3dtrance" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="3dtrance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3dtrance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="3dtrance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3dtrance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="3dtrance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3dtrance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="payment" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="3dtrance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3dtrance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="projects" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -1110,6 +263,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1150,37 +305,57 @@
       <workItem from="1519205574337" duration="533000" />
       <workItem from="1519250377343" duration="15373000" />
       <workItem from="1519638619386" duration="9433000" />
-      <workItem from="1519670489200" duration="6157000" />
+      <workItem from="1519670489200" duration="6542000" />
+      <workItem from="1519725586938" duration="1427000" />
+      <workItem from="1519802064518" duration="36048000" />
     </task>
+    <task id="LOCAL-00001" summary="Design revamped, cms added, animation added">
+      <created>1519712879295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519712879305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89905000" />
+    <option name="totallyTimeSpent" value="127765000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="690" y="0" width="683" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5257186" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33963692" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39802632" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4040067" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1191,7 +366,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Design revamped, cms added, animation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design revamped, cms added, animation added" />
+    <MESSAGE value="Projects page ui designed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects page ui designed" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1200,11 +376,19 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="33" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="40" lean-forward="true" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/visibleanimations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -1225,16 +409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,10 +418,11 @@
         <state relative-caret-position="493">
           <caret line="29" column="55" lean-forward="false" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1255,7 +431,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1297,7 +477,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2329">
           <caret line="137" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1315,7 +499,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2329">
           <caret line="137" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1340,7 +528,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
           <caret line="140" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1385,21 +577,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/visible.js" />
-    <entry file="file://$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-all.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10659">
-          <caret line="4" column="626539" lean-forward="false" selection-start-line="4" selection-start-column="626539" selection-end-line="4" selection-end-column="626539" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teamlist.html" />
-    <entry file="file://$PROJECT_DIR$/lib/jquery/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="343" lean-forward="false" selection-start-line="2" selection-start-column="343" selection-end-line="2" selection-end-column="343" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services-test.html" />
     <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cd7f524d-af46-4223-8cb9-87f45255ce4b/console.sql">
@@ -1423,65 +601,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/visibleanimations.js">
+    <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="73" column="7" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+        <state relative-caret-position="0">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
+    <entry file="file://$PROJECT_DIR$/payment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="75" column="99" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="75" selection-end-column="99" />
-          <folding />
+        <state relative-caret-position="373">
+          <caret line="69" column="34" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="69" selection-end-column="34" />
+          <folding>
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+        <state relative-caret-position="64">
+          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="121" selection-end-column="10" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="30" column="56" lean-forward="false" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/visibleanimations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="149" column="40" lean-forward="true" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
+        <state relative-caret-position="441">
+          <caret line="214" column="23" lean-forward="false" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/colloborations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="260" column="7" lean-forward="false" selection-start-line="260" selection-start-column="7" selection-end-line="260" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="4" column="649146" lean-forward="false" selection-start-line="4" selection-start-column="649146" selection-end-line="4" selection-end-column="649146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/in-view/in-view.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="4048" lean-forward="false" selection-start-line="5" selection-start-column="4048" selection-end-line="5" selection-end-column="4048" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="593" lean-forward="false" selection-start-line="1" selection-start-column="593" selection-end-line="1" selection-end-column="593" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="2" lean-forward="false" selection-start-line="128" selection-start-column="2" selection-end-line="128" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/projectbordertoggler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="99" column="10" lean-forward="false" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
+          <folding>
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,3 +7,11 @@ Replace the images, fill in the information. The pic with the legend is in image
 General
 Add the "nav-link-active" class to those pages that need it. Index and services have been done
  God bless
+
+Latest revision in docs, website project pages
+
+Add the remaining images to the projects page
+
+Create pages for each category, with the images
+
+Please modify the navbar on all the pages to show the new pages. I've done it on the projects page

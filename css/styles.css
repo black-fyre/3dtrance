@@ -153,7 +153,7 @@ a.nav-link-active {
 }
 
 .bg-color-grey {
-    background-color: #e5e2df;
+    background-color: #e5e2df !important;
 }
 
 .color-orange {
@@ -187,4 +187,36 @@ a.nav-link-active {
 /*Semi transparent grey background*/
 .bgcolor-transparent-gray {
     background-color: rgba(229, 226, 223, 0.8);
+}
+
+/*Project Page Styles*/
+.vh-100 {
+    height: calc(100vh - 50px);
+}
+
+.v-33 {
+    max-height: 33% !important;
+}
+
+.position-right {
+    right: 0 !important;
+}
+
+.position-left {
+    left: 0 !important;
+}
+
+.project-sidebar {
+    position: fixed;
+    left: 0;
+    top: 54px;
+    bottom: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.project-main {
+    position: absolute;
+    right: 0;
+    top: 54px;
 }
