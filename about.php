@@ -69,7 +69,8 @@ Animations">
         </div>
     </nav>
     <!--The main body of the page-->
-    <div class="height-half-vp position-relative d-flex" style="background-image: url('assets/images/itan16x9.jpg');">
+    <div class="height-half-vp position-relative d-flex"
+         style="background-image: url('assets/images/NewIndexImg/itan16x9.jpg');">
         <div class="about-explain-text-top-right">
             <p class="color-orange px-1 m-0">THE ITAN</p>
             <p class="bg-color-orange px-1 m-0">2nd place at the Design Competition by CPDI AFRICA 2017</p>
@@ -118,29 +119,27 @@ Animations">
                 companies.</p>
         </cms:editable>
     </div>
-    <div style="background-image: url('assets/images/aerialpool.jpg')"
+    <div style="background-image: url('assets/images/NewIndexImg/AERIAL WHOLE site edited 2-iloveimg-compressed.jpg')"
          class="height-half-vp position-relative d-flex justify-content-center align-items-center">
-        <div class="img-overlay-middle w-75 p-5 text-shadow" id="overlaid-text2">
-            <blockquote class="blockquote text-white">
+        <div class="about-explain-text-top-right">
+            <p class="bg-color-orange px-1 m-0">THE ABRAHAM RESORT, GHANA.</p>
+            <p class="bg-color-grey px-1 m-0">Design by PRIME PROJECTS LIMITED</p>
+        </div>
+        <div class="about-image-text-left p-3" id="overlaid-text1">
+            <blockquote>
                 <p class="mb-0">
-                    <cms:editable
-                            name='blockquote_text'
-                            label='Blockquote'
-                            desc='Enter a quote here'
-                            type='nicedit'>
-                        "Our Creative drive is inspired by the idea that every little droplet of water matters.<br>
-                        All that is needed is consistency, focus and determination. A century later, those droplets have
-                        become a mighty ocean.<br>
-                        The actions of today, are the history of tomorrow.
-                        So therefore, the little actions of today can impact tomorrow greatly, The right moves today
-                        make you a legend tomorrow.“
-                    </cms:editable>
+                    "Our creative drive is inspired by the idea that every
+                    little droplets of water matters. All that is needed is
+                    consistency, focus and determination, just a while later,
+                    those droplets have become a mighty ocean. The actions
+                    of today, are the history of tomorrow. So therefore, the
+                    little actions of today can impact tomorrow greatly. The
+                    right moves today makes you a legend tomorrow."
                 </p>
-
-                <footer class="blockquote-footer text-white"> Olalekan Afolabi <cite>Managing Partner, 3DTrance</cite>
-                </footer>
+                <b class="font-italic black">- Olalekan Afolabi, Managing Partner, 3DTrance</b>
             </blockquote>
         </div>
+        <p class="about-explain-text-bottom-right">CGI Courtesy of 3DTrance</p>
     </div>
     <div class="container my-5">
         <h3 class="color-header my-3">Our History</h3>
@@ -164,19 +163,29 @@ Animations">
         </p>
     </div>
     <div class="height-half-vp position-relative d-flex justify-content-center align-items-center"
-         style="background-image: url('assets/images/nairamall.jpg')" id="philosophy">
-        <div class="img-overlay-middle w-75 p-5 text-shadow" id="overlaid-text3">
-            <h4 class="text-center text-white">Our Philosophy</h4>
-            <p class="text-white">
+         style="background-image: url('assets/images/NewIndexImg/cottage view 1.jpg')" id="philosophy">
+        <div class="about-explain-text-top-left">
+            <p class="bg-color-orange px-1 m-0">JACKMERE LANE PROJECT, LONDON</p>
+            <p class="bg-color-grey px-1 m-0">Design by FOOTPRINT DESIGN, UK</p>
+        </div>
+        <div class="about-image-text-right p-3" id="overlaid-text1">
+            <h4 class="text-center">OUR PHILOSOPHY</h4>
+            <p>
                 <cms:editable
                         name='philosophy_text'
                         label='Our Philosophy'
+                        desc='Enter philosophy here'
                         type='textarea'>
-                    At 3DTrance, we believe in the ambience that creativity brings, which illuminate the atmosphere,
-                    for constant flow of ground breaking ideas to flourish.
+                    At 3Dtrance, we believe in
+                    the ambience that creativity
+                    brings, which illuminate the
+                    atmosphere, for constant
+                    flow of ground breaking
+                    ideas to flourish
                 </cms:editable>
             </p>
         </div>
+        <p class="about-explain-text-bottom-left">CGI Courtesy of 3DTrance</p>
     </div>
     <div class="container my-5">
         <h4 class="color-header">Our Experience</h4>
